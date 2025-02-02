@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rahmat Hidayat - Professional Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="banner">
+      <img src="your-photo.jpg" alt="Rahmat Hidayat">
+      <h1>RAHMAT HIDAYAT</h1>
+      <p>GENERALIS</p>
+      <div class="contact-info">
+        <p>📧 <a href="mailto:23rahmathidayat07@gmail.com">23rahmathidayat07@gmail.com</a></p>
+        <p>📍 Garut, West Java</p>
+        <p>📞 <a href="tel:+6285946257633">+62 85946257633</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Rahmat Hidayat</h2>
+      <p>Welcome to my professional page!</p>
+      <div class="buttons">
+        <a href="https://lynk.id" class="btn">Lynk</a>
+        <a href="https://linktr.ee" class="btn">Linktree</a>
+      </div>
+    </section>
+
+    <section class="products">
+      <h2>Produk Digital Kami</h2>
+      <p>Temukan berbagai produk digital berkualitas untuk kebutuhan Anda:</p>
+      <ul>
+        <li>📘 <strong>Ebook:</strong> Panduan Sukses Bisnis Online</li>
+        <li>🎨 <strong>Template Desain:</strong> Sosial Media & Branding</li>
+        <li>🎥 <strong>Kursus Online:</strong> Digital Marketing dan HR</li>
+      </ul>
+    </section>
+
+    <section class="testimonials">
+      <h2>Apa Kata Mereka?</h2>
+      <blockquote>
+        <p>"Produk digitalnya sangat membantu saya meningkatkan bisnis online saya!"</p>
+        <cite>- Ali</cite>
+      </blockquote>
+      <blockquote>
+        <p>"Template desainnya keren dan mudah digunakan. Highly recommended!"</p>
+        <cite>- Siti</cite>
+      </blockquote>
+    </section>
+
+    <section class="cta">
+      <h2>Siap Memulai?</h2>
+      <p>Jelajahi produk digital kami dan tingkatkan bisnis Anda sekarang juga!</p>
+      <a href="#products" class="btn">Lihat Produk</a>
+    </section>
+
+    <section class="faq">
+      <h2>Pertanyaan Umum</h2>
+      <details>
+        <summary>Bagaimana cara membeli produk?</summary>
+        <p>Klik tombol "Lihat Produk", pilih produk yang Anda suka, lalu ikuti langkah pembayaran.</p>
+      </details>
+      <details>
+        <summary>Apa saja metode pembayarannya?</summary>
+        <p>Kami menerima pembayaran melalui transfer bank dan e-wallet.</p>
+      </details>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p> copy; 2025 Rahmat Hidayat </p>
+  </footer>
+</body>
+</html>
