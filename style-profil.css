@@ -13,11 +13,13 @@ header {
   padding: 20px;
 }
 
-header .banner img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 10px;
+.banner {
+  background: url('./assets/banner.png') no-repeat center center/cover;
+  height: 250px; /* Sesuaikan tinggi banner */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
 .buttons {
