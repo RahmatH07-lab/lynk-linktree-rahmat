@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 20px;
+}
+
+header .banner img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* Buttons Section */
+.buttons {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.buttons p {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.buttons .gif {
+    width: 50px;
+    display: block;
+    margin: 10px auto;
+}
+
+.buttons .btn {
+    text-decoration: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 10px auto;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .btn {
+        width: 100%;
+    }
+}
