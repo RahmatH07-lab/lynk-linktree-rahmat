@@ -14,12 +14,10 @@ header {
 }
 
 .banner {
-  background: url('./assets/banner.png') no-repeat center center/cover;
-  height: 250px; /* Sesuaikan tinggi banner */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-bottom: 5px solid #333;
 }
 
 .buttons {
